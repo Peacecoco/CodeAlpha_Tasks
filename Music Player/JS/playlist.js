@@ -1,6 +1,6 @@
 let songs = [
     {
-        name : "Too Many Reason",
+        name : "Too Many Reasons",
         artist : "Mercy Chinwo",
         img : "img1.1",
         audio : "music1"
